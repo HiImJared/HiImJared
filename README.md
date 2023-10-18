@@ -1,7 +1,7 @@
 [![MasterHead](https://www.ookla.com/s/media/2022/09/optimized-how-the-internet-header-1200.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jared Pinney</h1>
 <h3 align="center">An aspiring Network Engineer from Illinois, USA</h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/7gI1.mp4")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/new-network-engineer-86tMpAXwuYo7K")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiimjared&label=Profile%20views&color=0e75b6&style=flat" alt="hiimjared" /> </p>
 
